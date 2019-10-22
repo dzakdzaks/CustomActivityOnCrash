@@ -290,3 +290,4 @@ The library is licensed under the [Apache License 2.0](https://github.com/Ereza/
 
 The bug image used in the default error activity is licensed under CC-BY by Riff: https://www.sketchport.com/drawing/6119265933459456/lady-bug
 If you use the image in your app, don't forget to mention that!
+fikri's #hacktoberfest
